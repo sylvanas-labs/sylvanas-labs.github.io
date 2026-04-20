@@ -1,0 +1,11 @@
+{
+  "name": "Tiresias (Sylvanas Labs)",
+  "id": "com.sylvanas-labs.tiresias-repo",
+  "url": "https://sylvanas-labs.github.io/tiresias/index.json",
+  "author": "sylvanas-labs",
+  "packages": {
+    "com.sylvanas-labs.tiresias": {
+      "versions": {}
+    }
+  }
+}
