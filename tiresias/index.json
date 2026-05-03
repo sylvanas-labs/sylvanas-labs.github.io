@@ -5,7 +5,17 @@
   "author": "sylvanas-labs",
   "packages": {
     "com.sylvanas-labs.tiresias": {
-      "versions": {}
+      "versions": {
+        "2.1.0": {
+          "name": "com.sylvanas-labs.tiresias",
+          "displayName": "Tiresias",
+          "version": "2.1.0",
+          "unity": "2022.3",
+          "description": "Unity Editor REST API that exposes scene state, assets, and compiler status for AI code assistant integration.",
+          "url": "https://github.com/sylvanas-labs/pantheon/releases/download/tiresias-v2.1.0/tiresias-2.1.0.zip",
+          "zipSHA256": "1BD2D46E9237F7D5826DAAFC9DD340C96D7D104701A10FF7944027C8FAE046F5"
+        }
+      }
     }
   }
 }
